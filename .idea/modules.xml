@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/estudos.gof/estudos.gof.iml" filepath="$PROJECT_DIR$/estudos.gof/estudos.gof.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/padroes_dio.iml" filepath="$PROJECT_DIR$/.idea/padroes_dio.iml" />
     </modules>
   </component>
