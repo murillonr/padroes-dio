@@ -1,4 +1,4 @@
-package estudos.gof;
+package estudos.gof.singleton;
 
 public class SingletonLazyHolder {
     private static class InstanceHolder{
